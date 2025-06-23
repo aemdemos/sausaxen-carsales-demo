@@ -1,0 +1,11 @@
+{
+  "originUrl": "https://www.carsales.com.au/editorial/",
+  "urls": [
+    {
+      "url": "https://www.carsales.com.au/editorial",
+      "source": "MANUAL",
+      "targetPath": "/editorial",
+      "id": "9e6ca666f45f701e1a6dbc40e1fff4ac3baab46d"
+    }
+  ]
+}
