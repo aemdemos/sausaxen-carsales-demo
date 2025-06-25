@@ -1,0 +1,314 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-25-b81b2452bab3e7e10dae801074e2a5b3f4f1c215",
+          "xpath": "/html[1]/body[1]/div[5]/footer[1]/section[2]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-03-948bea666b480756b03391fbdb22d31e801f065d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-05-b082c5c25b06aec0dd6ff4161cdb88d2cf418757",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-07-bc9393e09cb69d70a56e91e9807eafe7e03abcac",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-09-980d7731c40937efaeed8b1b01a8ce71f8589e8b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[5]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-11-63abb9d717a634f9d55b61b99137cd2eeef2074d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[6]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cards7)",
+      "key": "cards7",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-12-5ed4f30e8e49de2e18e43b3d0e11293f0f009734",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-14-37c7ffd502efecf1fcb09cf2df044d7685cf8b12",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[8]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 9,
+      "source": "Cards",
+      "target": "Cards (cards9)",
+      "key": "cards9",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-16-ed2483eefb5a4b9942a90c85702dc59122a6665a",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[9]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-18-b4b056c062af5a70d6914d78d31aae56343a9ab9",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[10]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 11,
+      "source": "Cards",
+      "target": "Cards (cards11)",
+      "key": "cards11",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-20-992a07e07fc5d49a28d80b95fc3b3b8c607a6f8e",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[11]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 12,
+      "source": "Cards",
+      "target": "Cards (cards12)",
+      "key": "cards12",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-22-19a6b236273e8c2810bb7ae7d6a8a5352696bbcc",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[12]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-23-c83e2a5782dbdd85ed36bee66fe35ff6c71b9abe",
+          "xpath": "/html[1]/body[1]/div[5]/footer[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 14,
+      "source": "Embed",
+      "target": "Embed",
+      "key": "embedVideo14",
+      "instances": [
+        {
+          "url": "https://www.carsales.com.au/editorial/",
+          "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+          "uuid": "91100a79-24-a8d1d50717c92fa219a62850b9e14989bc91c4f3",
+          "xpath": "/html[1]/body[1]/div[5]/footer[1]/section[2]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-01-3bae91bfa9435fa7d20546b37e29bcaebb32b2dd",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-02-2083ad2b708d820405aaec57c0ecf47600b168ba",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-04-6fe607ffe8d6e67787463593e00cd8ae41871a6e",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-06-744221c33c41756885e79105b23e7a6eb392b07f",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-08-8bcb9d8c49cccf8010003d18c5ef6cd0e17d6891",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-10-bbf98d1252068e6f4c86822a459fff7f20aa7c46",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-13-08ffa523961644974095368b385c938d203ef33c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-15-ba6cd56ea0c43953b5d5c6772f3bb2216fd81ee7",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[9]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-17-5996d1848212004721779eaa7a8846e4b6f8c5f6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[10]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-19-838c76709c9bd87a2218da7c1ccfb93593a6f586",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[11]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-21-0e42c68ab2d1488477f19523ce87f58ffbf4b7e6",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[12]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.carsales.com.au/editorial/",
+      "urlHash": "91100a7996e51e7f78cd4f6a20642a6a5100f935",
+      "uuid": "91100a79-25-b81b2452bab3e7e10dae801074e2a5b3f4f1c215",
+      "xpath": "/html[1]/body[1]/div[5]/footer[1]/section[2]/div[1]/div[2]"
+    }
+  ]
+}
